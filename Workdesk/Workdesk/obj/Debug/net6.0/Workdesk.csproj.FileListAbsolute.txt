@@ -1,0 +1,15 @@
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.csproj.AssemblyReference.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.AssemblyInfoInputs.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.AssemblyInfo.cs
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.csproj.CoreCompileInputs.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\bin\Debug\net6.0\Workdesk.exe
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\bin\Debug\net6.0\Workdesk.deps.json
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\bin\Debug\net6.0\Workdesk.runtimeconfig.json
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\bin\Debug\net6.0\Workdesk.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\bin\Debug\net6.0\Workdesk.pdb
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\refint\Workdesk.dll
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.pdb
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\Workdesk.genruntimeconfig.cache
+C:\Users\EmiliyaAndamova\OneDrive - workplace.az\Documents\Desktop\Emi\CodeA\Workdesk\Workdesk\obj\Debug\net6.0\ref\Workdesk.dll
